@@ -1,4 +1,4 @@
-# Statistical Data Analysis in Python
+# Statistical Data Analysis in Python.
 
 Introductory Tutorial, SciPy 2013, 25 June 2013
 
