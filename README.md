@@ -19,6 +19,7 @@ For students familiar with Git, you may simply clone this repository to obtain a
 
 ## Outline
 
+
 ### [Introduction to Pandas][1]
 
 * Importing data
